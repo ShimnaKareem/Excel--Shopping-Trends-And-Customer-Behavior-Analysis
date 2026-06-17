@@ -11,8 +11,8 @@ This Exceldashboard provide insights into customer shopping behavior and sales p
 * Purchase Frequency Analysis
 * Interactive filters for Season and Category
 
-TOOLS USED :
-*Microsoft Excel
+TOOLS USED:
+*Microsoft excel
 *Pivot Tables
 *Pivot Charts
 *Slicers
